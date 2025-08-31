@@ -11,6 +11,7 @@ Features
 
 Getting Started
 
+```bash
 1. Clone the repository:
 
 git clone https://github.com/Naillton/fortune.git
@@ -22,6 +23,7 @@ npm install
 3. Start the development server:
 
 npm run dev
+```
 
 Tech Stack
 

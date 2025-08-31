@@ -1,0 +1,22 @@
+export const frasesMarcantes: string[] = [
+  '"Fortune favors the bold."',
+  '"Great journeys begin with a single step."',
+  '"The future belongs to those who believe in the beauty of their dreams."',
+  '"Even the darkest night will end and the sun will rise."',
+  '"Courage is resistance to fear, not the absence of it."',
+  '"Life is made of choices — choose to be happy."',
+  '"Impossible is just an opinion."',
+  '"Small actions create big changes."',
+  '"Persistence makes the impossible possible."',
+  '"Be the change you want to see in the world."',
+  '"Every fall brings you closer to victory."',
+  '"Those who look outside dream, those who look inside awaken."',
+  '"Fear is an invitation to grow."',
+  '"Luck is what happens when preparation meets opportunity."',
+  '"The best is yet to come."',
+  '"Nothing is truly ours except our dreams."',
+  '"Challenges are opportunities in disguise."',
+  '"Everything you seek is also seeking you."',
+  '"Life rewards those who never give up."',
+  '"Hope is the fuel of the soul."'
+];

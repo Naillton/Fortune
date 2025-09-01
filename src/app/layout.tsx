@@ -1,5 +1,4 @@
 import { icons } from "lucide-react";
-import Stars from "./components/stars"
 import "./globals.css"
 import { ReactNode } from "react"
 
@@ -15,7 +14,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="pt-br">
       <body>
-        <Stars />
         <main>
           {children}
         </main>
